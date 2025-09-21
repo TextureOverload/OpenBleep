@@ -24,6 +24,7 @@ In the future, OpenBleep will also support the **OpenBleep Hardware Module** (cu
 ---
 
 ## Usage
+- (Optional but reccomended) Install a virtual cable program like [VB Audio Cable](https://vb-audio.com/Cable/).
 - Launch the software.
 - Choose a key to assign as your censor button.
 - Hold the key to play a bleep sound - this mutes your mic as well!.
